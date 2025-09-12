@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Seb
 
 Welcome to my GitHub!  
-I’m a **Software Engineering student at the University of Calgary** (expected graduation: May 2027) who loves building things at the intersection of **software, data, and the cloud**.  When I'm offline, my interests include traveling, playing team sports, and tracking the stock market.
+I’m a **Software Engineering student at the University of Calgary** (expected graduation: May 2027) who loves building at the intersection of **software, data, and the cloud** ☁️💻📊.  
+
+When I’m not coding, you’ll probably find me ✈️ traveling, ⚽ playing team sports, or 📈 keeping an eye on the stock market.  
+
 
 ---
 
