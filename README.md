@@ -50,4 +50,4 @@ When I’m not coding, you’ll probably find me ✈️ traveling, ⚽ playing t
 
 ---
 
-⭐️ *Thanks for stopping by! I’m always open to collaboration and new ideas.*  
+⭐️ *Thanks for stopping by! I’m always up for a coffee chat and getting to know new people.*  
