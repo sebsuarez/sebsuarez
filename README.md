@@ -13,6 +13,20 @@ I’m a **Software Engineering student at the University of Calgary** (expected 
 
 ---
 
+## 💼 Experience
+**Software Development Intern** – *TC Energy* (May 2025 – Aug 2025)  
+- Built a business-critical dashboard using **Angular + serverless AWS architecture** for pipeline management  
+- Designed an algorithm predicting future outages from historical data  
+- Implemented secure, event-driven backends with **AWS Lambda & API Gateway**  
+- Mentored new hires and contributed to CI/CD practices with **AWS CodeCommit**
+
+**Program Optimization Intern** – *TC Energy* (May 2024 – May 2025)  
+- Managed operational performance and budgeting for pipeline projects  
+- Automated recurring workflows with **Python, VBA, and DAX**, saving hours weekly  
+- Delivered process improvements by identifying and removing bottlenecks  
+
+---
+
 ## 🔧 Skills & Tools
 - **Languages:** Java, Python, C/C++, TypeScript, JavaScript, HTML, CSS, VBA  
 - **Frameworks & Libraries:** Angular, React, Node.js, Next.js, Vue.js, Docker, Tailwind  
@@ -28,9 +42,8 @@ I’m a **Software Engineering student at the University of Calgary** (expected 
 ---
 
 ## 📫 Connect with Me
-- 📧 [sebastian.suarez@ucalgary.ca](mailto:sebastian.suarez@ucalgary.ca)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastiansuarez/)  
-- 🌐 [GitHub](https://github.com/sebsuarez)  
+- 📧 [seb.suarez7@gmail.com](mailto:seb.suarez7@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastiansuarez/)
 
 ---
 
