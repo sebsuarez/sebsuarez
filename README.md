@@ -17,13 +17,13 @@ When I’m not coding, you’ll probably find me ✈️ traveling, ⚽ playing t
 ---
 
 ## 💼 Experience
-**Software Development Intern** – *TC Energy* (May 2025 – Aug 2025)  
+**Software Development Intern** – *TC Energy* (Jan 2025 – Aug 2025)  
 - Built a business-critical dashboard using **Angular + serverless AWS architecture** for pipeline management  
 - Designed an algorithm predicting future outages from historical data  
 - Implemented secure, event-driven backends with **AWS Lambda & API Gateway**  
 - Mentored new hires and contributed to CI/CD practices with **AWS CodeCommit**
 
-**Program Optimization Intern** – *TC Energy* (May 2024 – May 2025)  
+**Program Optimization Intern** – *TC Energy* (May 2024 – Dec 2025)  
 - Managed operational performance and budgeting for pipeline projects  
 - Automated recurring workflows with **Python, VBA, and DAX**, saving hours weekly  
 - Delivered process improvements by identifying and removing bottlenecks  
