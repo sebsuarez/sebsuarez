@@ -23,7 +23,7 @@ When I’m not coding, you’ll probably find me ✈️ traveling, ⚽ playing t
 - Implemented secure, event-driven backends with **AWS Lambda & API Gateway**  
 - Mentored new hires and contributed to CI/CD practices with **AWS CodeCommit**
 
-**Program Optimization Intern** – *TC Energy* (May 2024 – Dec 2025)  
+**Program Optimization Intern** – *TC Energy* (May 2024 – Dec 2024)  
 - Managed operational performance and budgeting for pipeline projects  
 - Automated recurring workflows with **Python, VBA, and DAX**, saving hours weekly  
 - Delivered process improvements by identifying and removing bottlenecks  
