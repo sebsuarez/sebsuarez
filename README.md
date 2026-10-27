@@ -1,53 +1,31 @@
-# 👋 Hi, I'm Seb
+# Hi, I'm Seb 👋
 
-Welcome to my GitHub!  
-I’m a **Software Engineering student at the University of Calgary** (expected graduation: May 2027) who loves building at the intersection of **software, data, and the cloud** ☁️💻📊.  
+Software Engineering student at the University of Calgary (graduating May 2027), building full-stack, cloud, and robotics software.
 
-When I’m not coding, you’ll probably find me ✈️ traveling, ⚽ playing team sports, or 📈 keeping an eye on the stock market.  
-
-
----
-
-## 🌱 What I'm Currently Working On
-- 🚀 Expanding my experience with **cloud-native applications** using AWS and Terraform  
-- 🖥️ Exploring **full-stack development** with React, Angular, and Next.js  
-- 🤖 Experimenting with **machine learning models** for sports analytics and prediction  
-- 📊 Building side projects that combine **data-driven insights** with real-world use cases  
-
----
+## 🚀 Currently Building
+- **SCOUT Search & Rescue UAV:** web-based Ground Control Station (React, TypeScript, FastAPI, PyMAVLink) for a Lockheed Martin–sponsored capstone, with onboard thermal person detection on NVIDIA Jetson
+- **Quantitative Trading Platform:** 24/7 FastAPI execution engine with sub-0.2s order placement, fault tolerance, and crash recovery, trading $100K+ monthly
 
 ## 💼 Experience
-**Software Development Intern** – *TC Energy* (Jan 2025 – Aug 2025)  
-- Built a business-critical dashboard using **Angular + serverless AWS architecture** for pipeline management  
-- Designed an algorithm predicting future outages from historical data  
-- Implemented secure, event-driven backends with **AWS Lambda & API Gateway**  
-- Mentored new hires and contributed to CI/CD practices with **AWS CodeCommit**
+**Software Development Intern, TC Energy** (Jan–Aug 2025)
+- Cut dashboard load time from 16s to 2.5s (84%) with caching and event-driven loading
+- Reduced department-wide S3 usage by 33% by redesigning data ingestion into Microsoft Fabric
+- Built Angular/Python apps on AWS Lambda, API Gateway, and S3 for 100+ users
 
-**Program Optimization Intern** – *TC Energy* (May 2024 – Dec 2024)  
-- Managed operational performance and budgeting for pipeline projects  
-- Automated recurring workflows with **Python, VBA, and DAX**, saving hours weekly  
-- Delivered process improvements by identifying and removing bottlenecks  
+**Program Optimization Intern, TC Energy** (May–Dec 2024)
+- Built 10+ VBA macros and 5 Python scripts automating data entry and reporting
+- Built Power BI dashboards for VP-level budget meetings on $1B+ project portfolios
 
----
+## 🔧 Tech Stack
+**Languages:** Python, TypeScript, JavaScript, Java, C/C++, SQL  
+**Frameworks:** React, Angular, FastAPI, Flask, GraphQL  
+**Cloud & DevOps:** AWS, Azure, Firebase, Docker, Linux, GitHub Actions, GitLab CI  
+**Data & Robotics:** PostgreSQL, MySQL, pandas, scikit-learn, PyTorch, ArduPilot, MAVLink
 
-## 🔧 Skills & Tools
-- **Languages:** Java, Python, C/C++, TypeScript, JavaScript, HTML, CSS, VBA  
-- **Frameworks & Libraries:** Angular, React, Node.js, Next.js, Vue.js, Docker, Tailwind  
-- **Cloud & Tools:** AWS (Lambda, API Gateway, CodeCommit, DynamoDB), Terraform, Git  
+## 📂 Projects
+- **[SCOUT GCS](link):** search-and-rescue UAV ground control station
+- **[Job Quest](link):** social job-search app where friends set challenges, compete, and track applications, with a 3-stage GitLab CI/CD pipeline
+- **Soccer Insight ML Model:** scikit-learn model predicting player positions with ~85% accuracy
 
----
-
-## 📂 Featured Projects
-- **Subway Screen Simulator** – A JavaFX desktop app simulating subway train displays with API integrations and real-time updates  
-- **AI Obituary Generator** – Full-stack AI-driven web app powered by GPT-3, AWS Lambda, and Terraform  
-- **Soccer Insight ML Model** – A scikit-learn model predicting soccer player positions with ~85% accuracy  
-
----
-
-## 📫 Connect with Me
-- 📧 [seb.suarez7@gmail.com](mailto:seb.suarez7@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastiansuarez/)
-
----
-
-⭐️ *Thanks for stopping by! I’m always up for a coffee chat and getting to know new people.*  
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/sebastiansuarez/) · seb.suarez7@gmail.com
