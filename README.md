@@ -3,7 +3,7 @@
 Software Engineering student at the University of Calgary (graduating May 2027), building full-stack, cloud, and robotics software.
 
 ## 🚀 Currently Building
-- **SCOUT Search & Rescue UAV:** web-based Ground Control Station (React, TypeScript, FastAPI, PyMAVLink) for a Lockheed Martin–sponsored capstone, with onboard thermal person detection on NVIDIA Jetson
+- **SCOUT Search & Rescue UAV:** web-based Ground Control Station and Mission Control software (React, TypeScript, FastAPI, PyMAVLink) for a Lockheed Martin–sponsored capstone, with onboard thermal person detection on NVIDIA Jetson
 - **Quantitative Trading Platform:** 24/7 FastAPI execution engine with sub-0.2s order placement, fault tolerance, and crash recovery, trading $100K+ monthly
 
 ## 💼 Experience
