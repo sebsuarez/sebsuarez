@@ -23,10 +23,9 @@ Software Engineering student at the University of Calgary (graduating May 2027),
 **Data & Robotics:** PostgreSQL, MySQL, pandas, scikit-learn, PyTorch, ArduPilot, MAVLink
 
 ## 📂 Projects
-- **[SCOUT GCS](TBD):** search-and-rescue UAV ground control station
-- **[JobWhen](TBD):** social job-search app where friends set challenges, compete, and track applications, with a 3-stage GitLab CI/CD pipeline
+- **[SCOUT GCS (public soon!)](insert_link_after_migration):** search-and-rescue UAV ground control station
+- **[JobWhen (public soon!)](insert_link_after_migration):** social job-search app where friends set challenges, compete, and track applications, with a 3-stage GitLab CI/CD pipeline
 - **[Lotion](https://github.com/sebsuarez/notion-clone):** Notion-inspired note-taking app in React with a React Quill rich-text editor, live preview, autosave to localStorage, and notes sorted by last edit
-- **Soccer Insight ML Model:** scikit-learn model predicting player positions with ~85% accuracy
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/sebastiansuarez/) · seb.suarez7@gmail.com
